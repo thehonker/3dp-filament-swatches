@@ -1,0 +1,12 @@
+samples:
+  # BAMBU LABS - PETG HF - BLACK
+  - brand: BAMBU
+    type: PETG
+    color: BLACK
+    modifier: HF
+
+  # BAMBU LABS - PETG HF - WHITE
+  - brand: BAMBU
+    type: PETG
+    color: WHITE
+    modifier: HF

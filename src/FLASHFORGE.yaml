@@ -1,0 +1,13 @@
+samples:
+  # FLASHFORGE - PLA SILK - NEBULA PURPLE
+  - brand: FLHFRG
+    type: PLA
+    color: Nebula Purple
+    modifier: Silk
+
+
+  # FLASHFORGE - PLA SILK - MARSALA
+  - brand: FLHFRG
+    type: PLA
+    color: Marsala
+    modifier: Silk

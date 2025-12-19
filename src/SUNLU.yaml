@@ -1,0 +1,60 @@
+samples:
+  # SUNLU - PETG PLAIN - WHITE
+  - brand: SUNLU
+    type: PETG
+    color: White
+    modifier: None
+
+  # SUNLU - PETG PLAIN - BLACK
+  - brand: SUNLU
+    type: PETG
+    color: Black
+    modifier: None
+
+  # SUNLU - PETG HF - WHITE
+  - brand: SUNLU
+    type: PETG
+    color: White
+    modifier: HF
+
+  # SUNLU - PETG HF - BLACK
+  - brand: SUNLU
+    type: PETG
+    color: Black
+    modifier: HF
+
+  # SUNLU - PETG HF - RED
+  - brand: SUNLU
+    type: PETG
+    color: Red
+    modifier: HF
+
+  # SUNLU - PETG HF - BLUE
+  - brand: SUNLU
+    type: PETG
+    color: Blue
+    modifier: HF
+
+  # SUNLU - PETG HF - ORANGE
+  - brand: SUNLU
+    type: PETG
+    color: Orange
+    modifier: HF
+
+  # SUNLU - PETG HF - MINT GREEN
+  - brand: SUNLU
+    type: PETG
+    color: Mint Green
+    modifier: HF
+
+  # SUNLU - PETG HF - SKY BLUE
+  - brand: SUNLU
+    type: PETG
+    color: Sky Blue
+    modifier: HF
+
+  # SUNLU - PETG HF - PINK
+  - brand: SUNLU
+    type: PETG
+    color: Pink
+    modifier: HF

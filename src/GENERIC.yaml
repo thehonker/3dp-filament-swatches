@@ -1,0 +1,12 @@
+samples:
+  # GENERIC - PLA MATTE - BLACK
+  - brand: UNKNO
+    type: PLA
+    color: Black
+    modifier: Matte
+
+  # GENERIC - PLA MATTE - WHITE
+  - brand: UNKNO
+    type: PLA
+    color: White
+    modifier: Matte
