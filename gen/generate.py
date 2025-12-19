@@ -24,9 +24,9 @@ def gen_samples(directory=f"{SCRIPT_DIR}/../src"):
                 data = yaml.safe_load(f)
                 for l in data['samples']:
                     print("Processing sample:", l)
-                    brand_stl_dir = os.path.join(SCRIPT_DIR, '../stl', l["brand"])
-                    os.makedirs(brand_stl_dir, exist_ok=True)
-                    stl_filename = os.path.join(brand_stl_dir, "_".join(l.values()) + ".stl")
+                    stl_dir = os.path.join(SCRIPT_DIR, '../stl', l["brand"], f"{l['type']}-{l['modifier']}")
+                    os.makedirs(stl_dir, exist_ok=True)
+                    stl_filename = os.path.join(stl_dir, "_".join(l.values()) + ".stl")
                     subprocess.run(
                         [OPENSCAD,
                         '-o', stl_filename,
